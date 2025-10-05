@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Jenil Moradiya
 
-🎓 **Bachelor of Engineering in Electronics and Communication**  
+🎓 **Bachelor of Engineering in Computer Science and Engineering**  
 💻 **Currently training in CCNA + CCNP at Networkers Home, Bangalore**  
-🚀 **Career Goal:** Network Software Engineer specializing in SD-WAN & Enterprise Networking  
+🚀 **Career Goal:** Network Software Engineer specializing in **SD-WAN, Enterprise Networking, and advanced network automation solutions**
 
 ---
 
 ## 🌐 Internship: 20 Days | 20 Technologies Challenge
-👉 [View My Internship Website](https://jenilmoradiya50.github.io/nh-20tech-intro-page/)
+👉 [View My Internship Website](https://jenilmoradiya50.github.io/NH20DAYS/)
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Networking:** Cisco, MikroTik, pfSense, WireGuard, OpenVPN
-- **Automation:** Ansible, Docker
-- **Monitoring:** Zabbix, Grafana
-- **Virtualization:** VMware, Proxmox
+- **Networking:** Cisco, MikroTik, pfSense, WireGuard, OpenVPN, Enterprise Network Design  
+- **Automation:** Ansible, Docker  
+- **Monitoring:** Zabbix, Grafana  
+- **Virtualization:** VMware, Proxmox  
 - **Routing Protocols:** OSPF, FRRouting
 
 ---
