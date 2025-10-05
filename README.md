@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jenil Moradiya
 
 🎓 **Bachelor of Engineering in Computer Science and Engineering**  
-💻 **Currently training in CCNA + CCNP at Networkers Home, Bangalore**  
+💻 **Currently training in CCNA + CCNP and starting Network Internship at Networkers Home, Bangalore**  
 🚀 **Career Goal:** Network Software Engineer specializing in **SD-WAN and Enterprise Networking**
 
 ---
@@ -22,6 +22,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![Jenil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenilmoradiya50&show_icons=true&theme=tokyonight)
+## 📊 Experience & Progress
+- 💼 **Backend Development Internship:** 4 months at Weenggs Technology  
+- 🎓 **Certifications / Courses:** CCNA course completed, CCNP in progress ⏳  
+- 🖥️ **Current Internship:** Network Internship at Networkers Home, Bangalore  
+- 📚 **Learning Focus:** SD-WAN, Enterprise Networking, Network Automation, Virtualization  
+
+---
+
+## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilmoradiya50&layout=compact&theme=tokyonight)
