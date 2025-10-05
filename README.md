@@ -2,7 +2,7 @@
 
 🎓 **Bachelor of Engineering in Computer Science and Engineering**  
 💻 **Currently training in CCNA + CCNP at Networkers Home, Bangalore**  
-🚀 **Career Goal:** Network Software Engineer specializing in **SD-WAN, Enterprise Networking, and advanced network automation solutions**
+🚀 **Career Goal:** Network Software Engineer specializing in **SD-WAN and Enterprise Networking**
 
 ---
 
@@ -11,12 +11,14 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills (Currently Learning / Training)
 - **Networking:** Cisco, MikroTik, pfSense, WireGuard, OpenVPN, Enterprise Network Design  
 - **Automation:** Ansible, Docker  
 - **Monitoring:** Zabbix, Grafana  
 - **Virtualization:** VMware, Proxmox  
-- **Routing Protocols:** OSPF, FRRouting
+- **Routing Protocols:** OSPF, FRRouting  
+
+> **PS:** These are the technologies I am actively learning during my internship and training.  
 
 ---
 
